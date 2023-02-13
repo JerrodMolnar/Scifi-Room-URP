@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/SciFi_Room.unity
+    guid: 6673d3c2202f7814385b38a7102c654b
   m_configObjects: {}
